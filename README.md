@@ -17,7 +17,9 @@ This project uses a machine learning model to predict customer churn and visuali
 Based on the Telco Customer Churn dataset (cleaned, encoded, and scored in Databricks)
 
 ## 📎 Live Dashboard
-🔗 [View the Predictive Churn Dashboard in Tableau Public](your_dashboard_link_here)
+🔗 [View the Predictive Churn Dashboard in Tableau Public](https://public.tableau.com/app/profile/gudimalla.varshitha/viz/PredictiveChurnDashboard/PredictiveChurnDashboard)
+
+🔗 [View the Customer Churn Analysis Dashboard in Tableau Public](https://public.tableau.com/views/CustomerChurnAnalysisDashboard_17495283074010/CustomerChurnAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🧪 How I Built It
 1. **Data Preprocessing** in PySpark (null handling, encoding, indexing)
